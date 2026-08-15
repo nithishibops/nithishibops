@@ -1,18 +1,21 @@
-<h1 align="center">Hi 👋, I'm Nithish Kumar S</h1>
-<h3 align="center">Business Intelligence & Data Analytics | Banking & FinTech Operations</h3>
+<div align="center">
 
-<p align="center">
-  Turning transaction and operational data into executive dashboards and decision-support reporting — powered by Power BI, DAX, and Advanced Excel/VBA.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CEA34D,100:0A0A0D&height=180&section=header&text=Nithish%20Kumar%20S&fontSize=40&fontColor=F0D489&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3000&pause=800&color=CEA34D&center=true&vCenter=true&width=700&lines=Turning+Transaction+Data+Into+Executive+Dashboards;Power+BI+%E2%80%A2+DAX+%E2%80%A2+Advanced+Excel%2FVBA;Banking+Alliances+%E2%80%A2+Merchant+Onboarding+%E2%80%A2+KYC%2FAML;Capital+Markets+%7C+IPOs+%7C+Rights+Issues+%7C+Corporate+Actions" alt="Typing SVG" /></a>
+
+<p>
   <a href="https://nithishibops.github.io/nithishibops-nithish-portfolio/"><img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nithish-kumar-s-5a0574338/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nithish.ibops@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/nithishibops"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=nithishibops&label=Profile%20Views&color=CEA34D&style=for-the-badge" alt="profile views"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:CEA34D,100:0A0A0D&height=3" width="100%"/>
 
 ### 🚀 About Me
 
@@ -24,7 +27,7 @@ Business Intelligence, Data Analytics, and Banking & FinTech Operations professi
 - 🎓 **Certified Investment Banking Professional** (Imarticus Learning) — combining operational domain knowledge with analytical capability
 - 📍 Based in Dubai, UAE
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:CEA34D,100:0A0A0D&height=3" width="100%"/>
 
 ### 🛠️ Core Skills
 
@@ -71,7 +74,7 @@ Business Intelligence, Data Analytics, and Banking & FinTech Operations professi
   <img src="https://img.shields.io/badge/Tally%20ERP-blueviolet?style=flat-square&logo=tally&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:CEA34D,100:0A0A0D&height=3" width="100%"/>
 
 ### 💼 Professional Experience
 
@@ -97,7 +100,7 @@ Business Intelligence, Data Analytics, and Banking & FinTech Operations professi
 - Led day-to-day coordination for a team and conducted quality checks to maintain processing accuracy and adherence to service standards
 - Reviewed operational data and documentation, identified discrepancies, and coordinated corrections to strengthen reporting reliability
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:CEA34D,100:0A0A0D&height=3" width="100%"/>
 
 ### 📊 Business Intelligence Projects
 
@@ -112,7 +115,7 @@ Business Intelligence, Data Analytics, and Banking & FinTech Operations professi
 
 📁 Full portfolio available at [github.com/nithishibops](https://github.com/nithishibops) and on my [live portfolio site](https://nithishibops.github.io/nithishibops-nithish-portfolio/).
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:CEA34D,100:0A0A0D&height=3" width="100%"/>
 
 ### 🔮 Roadmap — Upcoming Projects
 
@@ -137,14 +140,12 @@ Business Intelligence, Data Analytics, and Banking & FinTech Operations professi
 14. **Education Analytics Dashboard** — Students, enrollment, attendance, performance, and institutions
 15. 🌍 **Global Population & Development Dashboard** — Population, GDP, literacy, life expectancy, employment, and development indicators
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:CEA34D,100:0A0A0D&height=3" width="100%"/>
 
 ### 🎓 Certification
 
 **Certified Investment Banking Professional** — Imarticus Learning, Chennai | 2025
 Coursework: Securities & Derivatives, Trade Life Cycle, AML/KYC, Settlement & Reconciliation, Asset Management, Risk Management
-
----
 
 ### 📚 Education
 
@@ -153,8 +154,6 @@ Alagappa University (Syed Ammal Arts & Science College) | 2020 – 2023 | 79.01%
 
 **Higher Secondary Certificate (H.S.C.)**
 De Britto Hr. Sec. School, Devakottai | 2018 – 2020 | 76.16%
-
----
 
 ### 🏆 Achievements
 
@@ -165,18 +164,24 @@ De Britto Hr. Sec. School, Devakottai | 2018 – 2020 | 76.16%
 
 **Languages:** English (Read, Write, Speak) • Tamil (Read, Write, Speak)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:CEA34D,100:0A0A0D&height=3" width="100%"/>
 
+<div align="center">
 
 ### 📫 Let's Connect
 
 I'm open to opportunities in **Data Analytics, Power BI, Business Intelligence, Banking & FinTech Operations**.
 
-- 🌐 Portfolio: [nithishibops.github.io/nithishibops-nithish-portfolio](https://nithishibops.github.io/nithishibops-nithish-portfolio/)
-- 💼 LinkedIn: [Nithish Kumar S](https://www.linkedin.com/in/nithish-kumar-s-5a0574338/)
-- 📧 Email: [nithish.ibops@gmail.com](mailto:nithish.ibops@gmail.com)
-- 💻 GitHub: [@nithishibops](https://github.com/nithishibops)
-- 📞 Phone: +971 54 164 3097
-- 📍 Location: Dubai, UAE
+<p>
+  <a href="https://nithishibops.github.io/nithishibops-nithish-portfolio/"><img src="https://img.shields.io/badge/Portfolio-nithishibops.github.io-CEA34D?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/nithish-kumar-s-5a0574338/"><img src="https://img.shields.io/badge/LinkedIn-Nithish%20Kumar%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nithish.ibops@gmail.com"><img src="https://img.shields.io/badge/Email-nithish.ibops%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p align="center"><i>Built with data, driven by insight.</i></p>
+📞 +971 54 164 3097 &nbsp;•&nbsp; 📍 Dubai, UAE
+
+<i>Built with data, driven by insight.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0D,100:CEA34D&height=120&section=footer" width="100%"/>
+
+</div>
